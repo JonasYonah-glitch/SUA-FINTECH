@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
+    "@radix-ui/react-label": "latest",
+    "@radix-ui/react-select": "latest",
     "@radix-ui/react-slider": "latest",
+    "@radix-ui/react-switch": "latest",
     "@radix-ui/react-tabs": "latest",
     "@supabase/supabase-js": "latest",
     "class-variance-authority": "^0.7.1",
